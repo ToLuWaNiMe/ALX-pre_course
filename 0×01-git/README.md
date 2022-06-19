@@ -1,1 +1,1 @@
-explain git without Google help
+some text for this readme
